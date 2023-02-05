@@ -2,10 +2,9 @@
 
 ## Project Title - FIFA World Cup 2022
 
-In this project we look into the history of FIFA World cup to gather and store the data to study which teams won the most FIFA World Cup title and the goals scored.
+In this project we look into the history of FIFA World cup to gather and store the data to study and perform various types of data visualisation. Visualisation screens are developed along with responsive visualisation.
 
 ## Sources of Data
-
 
 The data is sourced from ("Joshua C. Fjelstul, Ph.D."), a notice that the database is copyrighted ("© 2022 Joshua C. Fjelstul, Ph.D."), a link to the CC-BY-SA 4.0 license (https://creativecommons.org/licenses/by-sa/4.0/legalcode), and a link to this repository (https://www.github.com/jfjelstul/worldcup)
 |No|Source|Link|File|
