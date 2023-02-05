@@ -64,12 +64,12 @@ Balvinder Rajbans
 <p align="center"><img src='https://github.com/BharatGuturi/FIFA-World-Cup-Analysis/blob/main/Images/goals%20csv%20.png' width = 80% ></p>  
 
 #### new_goals.csv - Modified
-
-![chart](https://github.com/brajbans/Project_3/blob/main/Images/new%20goals%20csv%20.png)
+    
+<p align="center"><img src='https://github.com/BharatGuturi/FIFA-World-Cup-Analysis/blob/main/Images/new%20goals%20csv%20.png' width = 80% ></p>  
 
 #### tournament_standings - Raw
-
-![chart](https://github.com/brajbans/Project_3/blob/main/Images/tournament_standings%20csv.png)
+    
+<p align="center"><img src='https://github.com/BharatGuturi/FIFA-World-Cup-Analysis/blob/main/Images/tournament_standings%20csv.png' width = 80% ></p>  
 
 ## Applications used:
 
@@ -104,27 +104,31 @@ Connect to postgres SQL database -> load data.
 Formal specification to be created that defines the tables format can be imported into postgres SQL database.
 
 #### new goals table
-![chart](https://github.com/brajbans/Project_3/blob/main/Images/new%20goals%20table.png)
+    
+<p align="center"><img src='https://github.com/BharatGuturi/FIFA-World-Cup-Analysis/blob/main/Images/new%20goals%20table.png' width = 80% ></p>  
 
-![chart](https://github.com/brajbans/Project_3/blob/main/Images/tournament_standings%20table.png)
+<p align="center"><img src='https://github.com/BharatGuturi/FIFA-World-Cup-Analysis/blob/main/Images/tournament_standings%20table.png' width = 80% ></p>  
 
 ## Visualisations:
-![chart](https://github.com/brajbans/Project_3/blob/main/Images/World%20Cup%20Count.png)
 
-![chart](https://github.com/brajbans/Project_3/blob/main/Images/Goals%20Scored.png)
+<p align="center"><img src='https://github.com/BharatGuturi/FIFA-World-Cup-Analysis/blob/main/Images/World%20Cup%20Count.png' width = 80% ></p>  
+    
+<p align="center"><img src='https://github.com/BharatGuturi/FIFA-World-Cup-Analysis/blob/main/Images/Goals%20Scored.png' width = 80% ></p> 
 
-![chart](https://github.com/brajbans/Project_3/blob/main/Images/Average%20goals%20per%20match.png)
+<p align="center"><img src='https://github.com/BharatGuturi/FIFA-World-Cup-Analysis/blob/main/Images/Average%20goals%20per%20match.png' width = 80% ></p> 
 
-![chart](https://github.com/brajbans/Project_3/blob/main/Images/Goals%20per%20year%20for%20each%20country.png)
+<p align="center"><img src='https://github.com/BharatGuturi/FIFA-World-Cup-Analysis/blob/main/Images/Goals%20per%20year%20for%20each%20country.png' width = 80% ></p> 
 
-![chart](https://github.com/brajbans/Project_3/blob/main/Images/map.png)
+<p align="center"><img src='https://github.com/BharatGuturi/FIFA-World-Cup-Analysis/blob/main/Images/map.png' width = 80% ></p> 
+    
     
 #### Responsive visualisations
-![chart](https://github.com/brajbans/Project_3/blob/main/Images/resposive%201.png)
-    
-![chart](https://github.com/brajbans/Project_3/blob/main/Images/resposive%202.png)
-    
-![chart](https://github.com/brajbans/Project_3/blob/main/Images/responsive%203.png)
+
+<p align="center"><img src='https://github.com/BharatGuturi/FIFA-World-Cup-Analysis/blob/main/Images/resposive%201.png' width = 80% ></p> 
+
+<p align="center"><img src='https://github.com/BharatGuturi/FIFA-World-Cup-Analysis/blob/main/Images/resposive%202.png' width = 80% ></p>  
+
+<p align="center"><img src='https://github.com/BharatGuturi/FIFA-World-Cup-Analysis/blob/main/Images/responsive%203.png' width = 80% ></p>     
 
 
 ## Project Report:
