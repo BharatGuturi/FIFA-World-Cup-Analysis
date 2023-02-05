@@ -61,7 +61,7 @@ Balvinder Rajbans
 
 #### goals.csv - Raw
 
-![chart](https://github.com/brajbans/Project_3/blob/main/Images/goals%20csv%20.png)
+<p align="center"><img src='https://github.com/BharatGuturi/FIFA-World-Cup-Analysis/blob/main/Images/goals%20csv%20.png' width = 80% ></p>  
 
 #### new_goals.csv - Modified
 
